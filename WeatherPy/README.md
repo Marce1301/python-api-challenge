@@ -43,7 +43,7 @@ The main tasks will be to use the Geoapify API and the geoViews Python library t
 
 1.Create a map that displays a point for every city in the city_data_df DataFrame. The size of the point should be the humidity in each city.
 
-2.Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity and display it inot a map.
+2.Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity and display it into a map.
 
 
 
